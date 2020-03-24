@@ -4,9 +4,9 @@
 
 ## Commands to build hugo from source:
 
-git clone https://github.com/gohugoio/hugo.git
-cd hugo
-go install -tags extended
+> git clone https://github.com/gohugoio/hugo.git
+> cd hugo
+> go install -tags extended
 
 ## Deploying site
 
