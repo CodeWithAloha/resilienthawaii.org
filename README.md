@@ -10,8 +10,13 @@
 
 ## Deploying site
 
-Not using netlify's hooks because using latest hugo source. For now, every push
+Not using netlify's hooks because using latest Hugo source and need to figure
+out how to specify the version of Hugo in Netlify's build process. For now, every push
 to master will just publish the public/ folder (so just make sure to build it
 locally before pushing)
 
 hugo --minify --theme book
+
+## Running locally
+
+hugo server --theme book --disableFastRender
