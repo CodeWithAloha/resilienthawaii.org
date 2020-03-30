@@ -6,6 +6,7 @@ headless: true
 
 - [**Latest Hawaii test results**](https://hawaiicovid19.com)
 - [**Where can I get screened?**](#covid-19-screening)
+- [**Get Involved!**](#get-involved--how-can-i-help)
   
   
 <br/>
