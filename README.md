@@ -15,8 +15,10 @@ out how to specify the version of Hugo in Netlify's build process. For now, ever
 to master will just publish the public/ folder (so just make sure to build it
 locally before pushing)
 
-hugo --minify --theme book
+## Building via Docker
 
-## Running locally
+docker run --rm -it -v $(pwd):/src -v $(pwd)/public:/target klakegg/hugo:0.68.3-ext-alpine --theme book --minify
 
-hugo server --theme book --disableFastRender
+## Running server locally via Docker
+
+docker run --rm -it -v $(pwd):/src -p 1313:1313 klakegg/hugo:0.68.3-ext-alpine server --theme book --disableFastRender
