@@ -13,6 +13,11 @@ headless: true
 
 - [State orders & closures](#state-level-closures-and-orders)
 - [Stay at home resources](#stay-at-home-resources-self-isolation)
+  
+  
+<br/>
+
+- [Take UH Contact Tracing survey](https://manoahawaiiss.az1.qualtrics.com/jfe/form/SV_9oUXdWn2YHRu27H)
 <br />
 
 ---
