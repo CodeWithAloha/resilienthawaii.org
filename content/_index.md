@@ -1,5 +1,6 @@
 ---
 Title: Hawaii COVID-19 Resources
+Summary: Crowdsourced resource of trusted, curated + editorial links specific to Hawaii concerning the novel coronavirus global pandemic (COVID-19/SARS-CoV-2).
 ---
 
 ## COVID-19 Resources for Hawaii
