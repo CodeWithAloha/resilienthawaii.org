@@ -1,6 +1,6 @@
-baseURL = "http://example.org/"
+baseURL = "https://resilienthawaii.org/"
 languageCode = "en-us"
-title = "Hawaii COVID-19 Resources"
+title = "Resilient Hawaii"
 theme = "book"
 
 [params]
