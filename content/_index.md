@@ -9,7 +9,7 @@ Images = ["img/post-cover.png"]
 
 # Crowdsourced Hawaii COVID-19 Resources
 
-**Want to contribute? Click to make suggestions**: [https://bit.ly/covid19hawaii](https://bit.ly/covid19hawaii)
+**Want to contribute? Click here to make suggestions**: [https://bit.ly/covid19hawaii](https://bit.ly/covid19hawaii)
 
 ## Introduction
 
