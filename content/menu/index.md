@@ -2,7 +2,7 @@
 headless: true
 ---
 
-![Logo](/img/logo.png)
+![Logo](/img/logo-color.png)
 
 - [**Latest Hawaii test results**](https://hawaiicovid19.com)
 - [**Where can I get screened?**](#covid-19-screening)
