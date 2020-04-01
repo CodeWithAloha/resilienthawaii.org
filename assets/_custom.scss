@@ -8,12 +8,34 @@
     overflow: hidden;
   }
 
+  img.license {
+    width:auto;
+    overflow: hidden;
+    margin:0;
+  }
+
+  img.goatcounter {
+    width:100px;
+    overflow: hidden;
+    margin:0;
+  }
+
   ul {
     margin-bottom:2em;
   }
 
   p:first-child {
     margin:0;
+  }
+
+  a:link, a:visited {
+    color:#05b !important;
+  }
+
+  span.menu-header {
+    font-size:1.5em;
+    font-weight:bold;
+    color:#333;
   }
 }
 
