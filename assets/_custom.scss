@@ -1,11 +1,23 @@
+mark.current {
+  background: orange;
+}
+
 .book-menu {
   hr {
     margin: 2.5em 0;
   }
+
   img {
     width:100%;
-    margin-bottom:2.5em;
+    margin-bottom:1em;
     overflow: hidden;
+  }
+
+  input#search {
+    width:150px;
+    margin-bottom:1em;
+    margin-right:.25em;
+    padding:.2em;
   }
 
   img.license {

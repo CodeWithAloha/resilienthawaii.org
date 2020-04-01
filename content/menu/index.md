@@ -4,6 +4,12 @@ headless: true
 
 ![Logo](/img/logo-color.png)
 
+{{< rawhtml >}}
+<span class="search-tool">
+<input type="search" id="search" name="search" placeholder="Search">&nbsp;<button data-search="next">&darr;</button>&nbsp;<button data-search="prev">&uarr;</button>
+</span>
+{{< /rawhtml >}}
+
 - {{< rawhtml >}}<span class="menu-header">Quick Links</span>{{< /rawhtml >}}
 - [**Latest Hawaii test results**](https://hawaiicovid19.com)
 - [**Where can I get screened?**](#covid-19-screening)
