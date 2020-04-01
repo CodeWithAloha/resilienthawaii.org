@@ -6,3 +6,9 @@ theme = "book"
 [params]
   Description = "Crowdsourced resource of trusted, curated + editorial links specific to Hawaii concerning the novel coronavirus global pandemic (COVID-19/SARS-CoV-2)."
   BookMenuBundle = "/menu"
+
+[markup]
+  [markup.tableOfContents]
+    endLevel = 6
+    ordered = false
+    startLevel = 1
