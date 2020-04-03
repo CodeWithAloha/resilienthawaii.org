@@ -37,7 +37,11 @@ Images = ["img/post-cover.png"]
 </a>
 {{< /rawhtml >}}
 
+Last Updated: _Thursday, April 2, 2020 5:56 PM_
+
 ## Introduction
+
+
 
 This is a crowdsourced resource of trusted, curated + editorial links specific to Hawaii concerning the novel coronavirus global pandemic (COVID-19/SARS-CoV-2). To neighbor island folk, we really need your help filling in the gaps; our networks are primarily on Oahu. Here are examples that we are modeling this document after: [NYC United Against Coronavirus](https://docs.google.com/document/d/18WYGoVlJuXYc3QFN1RABnARZlwDG3aLQsnNokl1KhZQ/edit), [Tech:NYC](https://www.google.com/url?q=https://docs.google.com/document/d/12KbEKMrLrZf-nUvuHoFtLPHAARIDEc7kcWTUwBnI8dw/edit&sa=D&ust=1585458826721000&usg=AFQjCNFuLDspcRvdcNBKQk5OQfte3mzaCQ), [COVID-19 Los Angeles Mass Resource List](https://docs.google.com/document/d/1S-WJaMa4q3yNrEBfSFKEdSQArcNc_MTI2LiUA63Ycyg/edit#). Let’s do our best to not recreate the wheel. We encourage you to [make suggestions to the content in this document](https://support.google.com/docs/answer/6033474).
 
@@ -46,6 +50,12 @@ This is a crowdsourced resource of trusted, curated + editorial links specific t
 ## Contact
 
 A group of volunteers are working on this project. If you are working on a similar effort, let’s join forces! If you have any questions,comments, information or resources for this document, or would like to help with this effort, please email us at [hawaiicovidresources@gmail.com](mailto:hawaiicovidresources@gmail.com). 
+
+## **Hawaii COVID-19 Resources in Non-English Languages**
+
+**Chinese-Simplified 简体中文, Chinese – Traditional 繁體中文, Chuukese Kapasen Chuuk,, Ilocano, Japanese 日本語, Tagalog, Korean 한국어, Marshallese Kajin M̧ajeļ, Spanish Español, Thai ไทย, Vietnamese Tiếng Việt**
+
+**Hawaiian ʻŌlelo Hawaiʻi**
 
 ## Immediate Needs
 
@@ -67,21 +77,19 @@ To help manage available healthcare resources for the public statewide, the Hawa
 
 Please note that conditions are changing rapidly and screening options may change. Thank you for your kokua and understanding. 
 
-[Hawaii Clinical Screening Criteria from LG Hawaii COVID Task Force](https://pastebin.com/eFnqwc9H) (Saved 3/21/2020)
-
-For more screening information and screening locations, please see the [Screening section](#heading=h.n5ry1vho6a3a) below.
-
 ### Find Help
 
 * Community information and referrals: [Aloha United Way 2-1-1 Community Resources](http://www.auw211.org/) - Call 2-1-1 or Text 877-275-6569 or email [info211@auw.org](mailto:info211@auw.org)
 
-* [Salvation Army: Hawaiian and Pacific Islands Division](https://hawaii.salvationarmy.org) - Providing food, emergency assistance, and other available services. 
+* [Salvation Army: Hawaiian and Pacific Islands Division](https://hawaii.salvationarmy.org) - Providing food, emergency assistance, and other available services.
+
+* Hawaii residents can now text "FOOD" to 877-877 to find the nearest keiki feeding sites. 
 
 * [Multi-languages resources](https://health.hawaii.gov/ola/ola-posts/covid-19-multi-languages-resources/) (posted on March 13 in State of HI, Office of Language Access)
 
 * [COVID-19 + Women in Hawaii](https://docs.google.com/document/u/0/d/1dGp4ABKB4ADaTcO8BJMbdiFuRc-ITPgD8_4YI3ihjxk/mobilebasic) (Hawaii State Commission on the Status of Women): A crowdsourced guide focused on women’s needs, community resources for women, and urgent concerns and questions.
 
-* If you’re concerned about being quarantined in an unsafe home situation, please see domesticshelters.org for more resources. National Domestic Violence Hotline is available 24/7 at 1-800-799-7233 (SAFE) or 1-800-787-3223 (TTY) or chat with their advocates [here](https://www.thehotline.org/what-is-live-chat/) or text LOVEIS to 22522.
+* If you’re concerned about being quarantined in an unsafe home situation, please see domesticshelters.org for more resources. National Domestic Violence Hotline is available 24/7 at 1-800-799-7233 (SAFE) or 1-800-787-3223 (TTY) or [chat with their advocates](https://www.thehotline.org/what-is-live-chat/) or text LOVEIS to 22522.
 
 * [Anti-Violence Project](https://avp.org/) offers a 24-hour English/Spanish hotline for LGBTQ+ experiencing abuse or hate-based violence: call 212-714-1141
 
@@ -129,6 +137,8 @@ For more screening information and screening locations, please see the [Screenin
 
 #### Federal Stimulus Package
 
+* [Hawai’i specific guide to stimulus benefits](https://www.schatz.senate.gov/coronavirus) (Sen. Schatz)
+
 * [Your Guide To The Federal Stimulus Package](https://www.forbes.com/sites/advisor/2020/03/27/your-guide-to-the-federal-stimulus-package/#dae45782711e) (Forbes)
 
 #### Sick Leave
@@ -143,19 +153,19 @@ For more screening information and screening locations, please see the [Screenin
 
 #### Resources Based on Type of Employment
 
-* For resources for **freelance artists**, click [here](https://covid19freelanceartistresource.wordpress.com/?fbclid=IwAR2h6cN5HPapOjYZoLocJ7ydEEx34_0Hy_Bp2K_jblFmSKUQ1uNM3j1X3Cs)!
+* [Resources for ](https://covid19freelanceartistresource.wordpress.com/?fbclid=IwAR2h6cN5HPapOjYZoLocJ7ydEEx34_0Hy_Bp2K_jblFmSKUQ1uNM3j1X3Cs)**[freelance artist**s](https://covid19freelanceartistresource.wordpress.com/?fbclid=IwAR2h6cN5HPapOjYZoLocJ7ydEEx34_0Hy_Bp2K_jblFmSKUQ1uNM3j1X3Cs)
 
-* For resources for **bartenders**, click [here](https://www.usbgfoundation.org/beap?fbclid=IwAR3dQlMeJsntGhpWvUi3rWUnkHWQCIL97gG9yqQdG9degTQ_Yxr6YkCqL7I)! 
+* [Resources for ](https://www.usbgfoundation.org/beap?fbclid=IwAR3dQlMeJsntGhpWvUi3rWUnkHWQCIL97gG9yqQdG9degTQ_Yxr6YkCqL7I)**[bartender**s](https://www.usbgfoundation.org/beap?fbclid=IwAR3dQlMeJsntGhpWvUi3rWUnkHWQCIL97gG9yqQdG9degTQ_Yxr6YkCqL7I)
 
-* For resources for **musicians**, click [here](https://www.americansforthearts.org/by-topic/disaster-preparedness/coronavirus-covid-19-resource-and-response-center)!
+* [Resources for ](https://www.americansforthearts.org/by-topic/disaster-preparedness/coronavirus-covid-19-resource-and-response-center)**[musician**s](https://www.americansforthearts.org/by-topic/disaster-preparedness/coronavirus-covid-19-resource-and-response-center)
 
-* For resources for **tipped workers/service workers**, click [here](https://ofwemergencyfund.org/help)!
+* [Resources for ](https://ofwemergencyfund.org/help)**[tipped workers/service worker**s](https://ofwemergencyfund.org/help)
 
-* For resources for **restaurant workers**, click [here](https://www.restaurantworkerscf.org/news/2020/3/15/restaurant-workers-community-foundation-announces-the-formation-of-restaurant-workers-covid19-crisis-relief-fund)!
+* [Resources for ](https://www.restaurantworkerscf.org/news/2020/3/15/restaurant-workers-community-foundation-announces-the-formation-of-restaurant-workers-covid19-crisis-relief-fund)**[restaurant worker**s](https://www.restaurantworkerscf.org/news/2020/3/15/restaurant-workers-community-foundation-announces-the-formation-of-restaurant-workers-covid19-crisis-relief-fund)
 
-* For resources for **street vendors**, click [here]( https://www.inclusiveaction.org/covid19response)!
+* [Resources for ](https://www.inclusiveaction.org/covid19response)**[street vendor**s](https://www.inclusiveaction.org/covid19response)
 
-* For resources for **artists**, click [here](https://www.sidestreet.org/artist-resources)! 
+* [Resources for ](https://www.sidestreet.org/artist-resources)**[artist**s](https://www.sidestreet.org/artist-resources)
 
     * [artEquity is giving $200 per person, for BIPOC (Black, Indigenous, People of Color) pursuing careers as artists or arts administrators whose income has been directly impacted by the COVID-19 pandemic](https://docs.google.com/forms/d/e/1FAIpQLSfv4AazvLFVUNAgXoxqBqfZ7jJVkrMroa-CET6Vt6XygR-CaQ/viewform?fbzx=-3551299570220847832)
 
@@ -171,7 +181,7 @@ For more screening information and screening locations, please see the [Screenin
 
 * [Kamaʻaina Kids](https://www.kamaainakids.com/school-age/program) - providing childcare for essential workers. Call 808-262-4538.
 
-* YMCA of Honolulu - providing childcare for essential workers. Register [here](https://www.ymcahonolulu.org/about/news/essential-workers-child-care).
+* YMCA of Honolulu - providing childcare for essential workers. [Register online](https://www.ymcahonolulu.org/about/news/essential-workers-child-care).
 
 * [Corona Care Hawaiʻi](http://coronacarehi.org) (Mutual Aid)
 
@@ -199,6 +209,18 @@ For more screening information and screening locations, please see the [Screenin
 
     * Palolo Chinese Homes Meals on Wheels: 808-748-4909
 
+    * St. Francis - Show Aloha Challenge 
+
+        * **March 30 - April 8, 2020**
+Free Meals - Home Delivered by Local Businesses & C&C of Honolulu
+1) 60 years and older
+2) Must have an underlying health condition
+3) Have limited resources and limited family support for meals
+4) Not receiving any subsidized meals - including meal delivery
+
+Phone:  547-6501
+Website: [https://www.stfrancishawaii.org/event-calendar/show-aloha-challenge](https://www.stfrancishawaii.org/event-calendar/show-aloha-challenge)
+
 * Senior Centers & Parks & Recreation Senior Programs: **Closed Indefinitely **
 
     * [City & County of Honolulu: Department of Parks & Recreation - Senior Programs](http://www.honolulu.gov/parks.html) 
@@ -214,8 +236,6 @@ For more screening information and screening locations, please see the [Screenin
     * Home Health Agencies remain operational (as of 3/23/2020)
 
 ### Food & Food Insecurity
-
-* Kaua‘i Food System Resources - lists of CSAs/on-farm pickups, farmer deliveries; resources for farmers; kupuna/keiki CSA box and feeding programs; and more. Updated daily while case managing 100+ farmers weekly- most updated resource for Kaua‘i farmers
 
 * [Go Farm Hawaii: Find and support a local farmer from all islands](https://gofarmhawaii.org/find-your-farmer/)
 
@@ -242,6 +262,8 @@ For more screening information and screening locations, please see the [Screenin
     * [Hawaii Food Bank (statewide)](http://www.hawaiifoodbank.org/?fbclid=IwAR3D7oRNbGwj7SIbw95AKEuLJK5FxyIfnJ_vUHwQvTRmL-3UVHCZt7jaGN0)
 
     * [Maui Food Bank](https://mauifoodbank.org/?fbclid=IwAR2v5BgYdZkFdeRlrVWv2aPxBeH5nHcDiURjwDbprITLchZrd6FzXhIJfZI) 
+
+        * [Food Pantry (Partners w/ Maui Food Bank)](http://calvarymaui.org/food-pantry/)
 
 * Food Take-Out/Delivery Directories:
 
@@ -279,7 +301,7 @@ For more screening information and screening locations, please see the [Screenin
 
 * [Blood Bank of Hawaii](https://www.bbh.org/covid-19/) - Donate blood at various donation centers: Young Street, Dillingham, Kailua Town Center, Kaneohe Bay Shopping Center, Waikele Center, and KROC Center Hawaii. Please check the site for hours.
 
-* Rainbow Family 808 - food donations
+* [Rainbow Family 808](http://rainbowfamily808.com) - Food donations
 
 ### Preparedness
 
@@ -335,27 +357,24 @@ Depending on your health insurance, some of these platforms can be used for free
 
 ### State Level Closures and Orders
 
-{{< rawhtml >}}<table>
-  <tr>
-    <td>State Orders</td>
-    <td>Schools / Department of Education</td>
-    <td>Events</td>
-  </tr>
-  <tr>
-    <td>Governor’s Orders 
-All persons entering the state to self-quarantine for 14 days or for their duration of their stay, whichever is shorter
+#### State Orders
 
-(effective March 26, 2020) (Hawaii News Now, updated March 22) </td>
-    <td>DOE Extends Spring Break until April 30th
-Hawaii Public Schools COVID19 Information Updates 
+* [Governor’s Orders](https://governor.hawaii.gov/wp-content/uploads/2020/03/2003162-ATG_Third-Supplementary-Proclamation-for-COVID-19-signed.pdf)[ ](https://governor.hawaii.gov/wp-content/uploads/2020/03/2003162-ATG_Third-Supplementary-Proclamation-for-COVID-19-signed.pdf): All persons entering the state to self-quarantine for 14 days or for their duration of their stay, whichever is shorter
+*(effective March 26, 2020) (**[Hawaii News No*w](https://www.hawaiinewsnow.com/2020/03/22/live-governor-expected-announce-new-restrictions-bid-fight-spread-virus/)*, updated March 22) *
 
-Hawaii Association of Independent Schools COVID-19 Resources
+#### Schools / Department of Education
 
-Information for Schools and University Administrators (DOH/PDF)</td>
-    <td>Star Advertiser Hawaii Event Cancellation and Closures</td>
-  </tr>
-</table> {{< /rawhtml >}}
+* [DOE Extends Spring Break until April 30th](https://www.kitv.com/story/41934979/doe-extends-spring-break-until-april-30?utm_medium=social&utm_source=facebook_KITV&fbclid=IwAR0Oi7sYinib1PzqxQIqpc6sNL7v-_VEEvOoJwXfDcd70oKLsy66rGPQkK4)
 
+* [Hawaii Public Schools COVID19 Information Updates](http://www.hawaiipublicschools.org/ConnectWithUs/MediaRoom/PressReleases/Pages/COVID-19-Information-Updates.aspx) 
+
+* [Hawaii Association of Independent Schools COVID-19 Resources](https://www.hais.us/RelId/753034/ISvars/default/Coronavirus_2019_COVID_19_.htm)
+
+* [Information for Schools and University Administrators](https://health.hawaii.gov/docd/files/2020/02/2019_Novel_Coronavirus_Information_for_Schools_and_Universities.pdf) (DOH/PDF)
+
+#### Events
+
+* [Star Advertiser Hawaii Event Cancellation and Closures](https://www.staradvertiser.com/2020/03/12/breaking-news/from-merrie-monarch-to-uh-sports-see-whats-been-affected-by-the-coronavirus/)
 
 ### Local Media Coverage
 
@@ -370,6 +389,8 @@ Information for Schools and University Administrators (DOH/PDF)</td>
 * [KHON2 Live Events](https://www.khon2.com/live-events/) (Online stream of Government Press Conferences)
 
 * [HawaiiFreePress.com COVID-19 coverage](http://www.hawaiifreepress.com/ArticlesMain/tabid/56/articleType/CategoryView/categoryId/131/COVID-19.aspx)
+
+* [Hawaii Public Radio (HPR)](http://www.hawaiifreepress.com/ArticlesMain/tabid/56/articleType/CategoryView/categoryId/131/COVID-19.aspx)
 
 ### General Information on COVID-19
 
@@ -398,6 +419,8 @@ Information for Schools and University Administrators (DOH/PDF)</td>
 * [CDC: How to talk to kids about Coronavirus](https://www.cdc.gov/coronavirus/2019-ncov/community/schools-childcare/talking-with-children.html)
 
 * ["Covid Near You" tracking project ](https://covidnearyou.org/#!/)(Harvard/Boston Children's Hospital)
+
+* [Daily Updates and Archives of Hawaii-specific graphs and charts](https://www.livinginhawaii.com/category/hawaii-nei/living-in/covid-19/)
 
 ### Mental Well-being 
 
@@ -448,7 +471,7 @@ Information for Schools and University Administrators (DOH/PDF)</td>
     <td>(808) 263-5500</td>
     <td>24 hours
 </td>
-    <td>Everyday</td>
+    <td>Every day</td>
   </tr>
   <tr>
     <td>Island Urgent Care</td>
@@ -474,7 +497,7 @@ Call COVID Hotline for Covid Testing (808) 691-2619</td>
     <td>Kahuku Medical Center</td>
     <td>56-117 Pualalea Street, Kahuku</td>
     <td>(808) 293-9221</td>
-    <td>24 hHours
+    <td>24 Hours
 </td>
     <td>Every day</td>
   </tr>
@@ -482,7 +505,7 @@ Call COVID Hotline for Covid Testing (808) 691-2619</td>
     <td>Kaiser Permanente Moanalua Medical Center</td>
     <td>3288 Moanalua Road, Honolulu</td>
     <td>(808) 432-0000</td>
-    <td>24 hHours
+    <td>24 Hours
 </td>
     <td>Every day</td>
   </tr>
@@ -498,7 +521,7 @@ Call COVID Hotline for Covid Testing (808) 691-2619</td>
     <td>Kalihi-Palama Health Center</td>
     <td>89 South King Street, Honolulu</td>
     <td>(808) 792-5560</td>
-    <td>8 am - 5:00 pm
+    <td>8 am - 5 pm
 </td>
     <td>Mon - Fri</td>
   </tr>
@@ -506,7 +529,7 @@ Call COVID Hotline for Covid Testing (808) 691-2619</td>
     <td>Kapiolani Medical Center for Women & Children</td>
     <td>1319 Punahou Street, Honolulu</td>
     <td>(808) 983-6000</td>
-    <td>24 hHours
+    <td>24 Hours
 </td>
     <td>Every day</td>
   </tr>
@@ -514,21 +537,21 @@ Call COVID Hotline for Covid Testing (808) 691-2619</td>
     <td>Kuakini Medical Center</td>
     <td>347 North Kuakini Street, Honolulu</td>
     <td>(808) 536-2236</td>
-    <td>24 hHours</td>
+    <td>24 Hours</td>
     <td>Every day</td>
   </tr>
   <tr>
     <td>Pali Momi Medical Center</td>
     <td>98-1079 Moanalua Road, Aiea</td>
     <td>(808) 486-6000</td>
-    <td>24 hHours</td>
+    <td>24 Hours</td>
     <td>Every day</td>
   </tr>
   <tr>
     <td>Straub Medical Center</td>
     <td>888 South King Street, Honolulu</td>
     <td>(808) 522-4000</td>
-    <td>24 hHours</td>
+    <td>24 Hours</td>
     <td>Every day</td>
   </tr>
   <tr>
@@ -537,7 +560,7 @@ Call COVID Hotline for Covid Testing (808) 691-2619</td>
     <td>(808) 691-1000
 
 Call COVID Hotline for Covid Testing (808) 691-2619</td>
-    <td>24 hHours</td>
+    <td>24 Hours</td>
     <td>Every day</td>
   </tr>
   <tr>
@@ -547,7 +570,7 @@ Call COVID Hotline for Covid Testing (808) 691-2619</td>
     <td>(808) 691-3000
 
 Call COVID Hotline for Covid Testing (808) 691-2619</td>
-    <td>24 hHours</td>
+    <td>24 Hours</td>
     <td>Every day</td>
   </tr>
   <tr>
@@ -572,14 +595,14 @@ Call COVID Hotline for Covid Testing (808) 691-2619</td>
     <td>Tripler Army Medical Center (Military only)</td>
     <td>1 Jarrett White Road, Honolulu</td>
     <td>(808) 683-2778</td>
-    <td>24 hHours</td>
+    <td>24 Hours</td>
     <td>Every day</td>
   </tr>
   <tr>
     <td>Wahiawa General Hospital</td>
     <td>128 Lehua Street, Wahiawa</td>
     <td>(808) 621-8411</td>
-    <td>24 hHours</td>
+    <td>24 Hours</td>
     <td>Every day</td>
   </tr>
   <tr>
@@ -587,7 +610,7 @@ Call COVID Hotline for Covid Testing (808) 691-2619</td>
     <td>46-001 Kamehameha Highway, Suite 107</td>
     <td>(808) 234-1094</td>
     <td>8 am - 9 pm</td>
-    <td>Everyd day</td>
+    <td>Every day</td>
   </tr>
   <tr>
     <td>Call ahead for Drive-Thru/Drive-Up Screening</td>
@@ -598,9 +621,12 @@ Call COVID Hotline for Covid Testing (808) 691-2619</td>
   </tr>
   <tr>
     <td>Adventist Health Castle [Article]</td>
-    <td>640 Ulukahiki Street, KailuaPhysical order required and a Castle Associate will contact you.</td>
+    <td>640 Ulukahiki Street, Kailua
+
+Physical order required and a Castle Associate will contact you.</td>
     <td>(808) 263-5500</td>
-    <td>M-F: 8:30 am- noon-12 pm; Saturday 10 am - 2pm</td>
+    <td>M-F: 8:30 am- noon-12 pm; 
+Saturday 10 am - 2pm</td>
     <td>Mon - Fri, Saturday</td>
   </tr>
   <tr>
@@ -642,6 +668,14 @@ Call COVID Hotline for Covid Testing (808) 691-2619</td>
     <td>Mon - Sun</td>
   </tr>
   <tr>
+    <td>Waianae Coast Comprehensive Health Center</td>
+    <td>86-260 Farrington Hwy. Waianae</td>
+    <td>(808) 697-3300
+Call COVID Hotline for Covid Testing (808) 697-3170</td>
+    <td>2 pm - 6 pm</td>
+    <td>Mon - Fri</td>
+  </tr>
+  <tr>
     <td>Walk-in Screening</td>
     <td></td>
     <td></td>
@@ -680,22 +714,22 @@ Call COVID Hotline for Covid Testing (808) 691-2619</td>
     <td>Kauai Veterans Memorial Hospital</td>
     <td>4643 Waimea Canyon Drive, Waimea</td>
     <td>(808) 338-9431</td>
-    <td>24 hHours</td>
-    <td>Everyd Day</td>
+    <td>24 Hours</td>
+    <td>Every day</td>
   </tr>
   <tr>
     <td>Samuel Mahelona Memorial Hospital</td>
     <td>4800 Kawaihau Road, Kapaa</td>
     <td>(808) 822-4961</td>
-    <td>24 hHours</td>
-    <td>Everyd Day</td>
+    <td>24 Hours</td>
+    <td>Every day</td>
   </tr>
   <tr>
     <td>Wilcox Memorial Hospital</td>
     <td>3-3420 Kuhio Highway, Lihue</td>
     <td>(808) 245-1100</td>
-    <td>24 hHours</td>
-    <td>Everyd Day</td>
+    <td>24 Hours</td>
+    <td>Every day</td>
   </tr>
   <tr>
     <td>Call ahead for Drive-Thru/Drive-Up Screening</td>
@@ -735,7 +769,7 @@ Call COVID Hotline for Covid Testing (808) 691-2619</td>
     <td>Kula Hospital</td>
     <td>100 Keokea Place, Kula</td>
     <td>(808) 878-1221</td>
-    <td>24 hHours</td>
+    <td>24 Hours</td>
     <td>Every day</td>
   </tr>
   <tr>
@@ -750,7 +784,7 @@ Call COVID Hotline for Covid Testing (808) 691-2619</td>
     <td>221 Mahalani Street Wailuku
 </td>
     <td>(808) 244-9056</td>
-    <td>24 hHours</td>
+    <td>24 Hours</td>
     <td>Every day</td>
   </tr>
   <tr>
@@ -764,7 +798,7 @@ Call COVID Hotline for Covid Testing (808) 691-2619</td>
     <td>Molokai General Hospital</td>
     <td>280 Home Olu Place, Kaunakakai</td>
     <td>(808) 553-5331</td>
-    <td>24 hHours</td>
+    <td>24 Hours</td>
     <td>Every day</td>
   </tr>
   <tr>
@@ -805,15 +839,15 @@ Call COVID Hotline for Covid Testing (808) 691-2619</td>
     <td>Hilo Medical Center</td>
     <td>1190 Waianuenue Avenue, Hilo</td>
     <td>(808) 932-3000</td>
-    <td>24 hHours</td>
-    <td>Everyd Day</td>
+    <td>24 Hours</td>
+    <td>Every day</td>
   </tr>
   <tr>
     <td>Kona Community Hospital North</td>
     <td>79-1019 Haukapila Street, Kealakekua</td>
     <td>(808) 322-9311</td>
-    <td>24 hHours</td>
-    <td>Everyd Day</td>
+    <td>24 Hours</td>
+    <td>Every day</td>
   </tr>
   <tr>
     <td>Queen's North Hawaii Community Hospital</td>
@@ -977,11 +1011,15 @@ Call COVID Hotline for Covid Testing (808) 691-2619</td>
 
     * Food Bank - contact Kirsten Yale at [volunteer@hawaiifoodbank.org](mailto:volunteer@hawaiifoodbank.org) or 808-954-7866.
 
+    * Arc Pacific Hawaii is making face shields! Donating labor, but asking for donations for materials. $2/mask (currently HPH has requested 20,000 they’re working with QMC for a count) - receipts can be provided for donation. Via check (make out to Arc, 680 Queen Street, Honolulu, HI 96813). If they put up on Indiegogo/gofundme I’ll link. 
+
 * Masks
 
     * [Hawaii Mask Makers](https://www.hawaiimaker.com): Directory of grassroots efforts to make and donate face masks to healthcare workers and medical facilities.
 
     * [Mask Production Database](https://docs.google.com/spreadsheets/d/1G5WZHX5lEdsxkQBUL65ZYZHcHmnLzZJA4VTZ3yFHHqY/edit?fbclid=IwAR0G-jTe3YNL9BJdeU2ImXbJFM4u2gxaROdxIR3lXWupZ9Vp-pVGrz5so6M#gid=1190489788)
+
+    * Pattern from UH-Mānoa: [http://go.hawaii.edu/ADE](http://go.hawaii.edu/ADE) 
 
 * Kupuna Aid
 
@@ -992,6 +1030,8 @@ Call COVID Hotline for Covid Testing (808) 691-2619</td>
     * Phone-A-Friend - calls to kupuna 65+ [https://www.catholiccharitieshawaii.org/programs-services/seniors/phone-a-friend](https://www.catholiccharitieshawaii.org/programs-services/seniors/phone-a-friend/)
 
     * Kupuna Needs - [https://hawaiicatholictv.com/kupunaneedsproject/](https://hawaiicatholictv.com/kupunaneedsproject/)
+
+    * [Kupuna Kokua](http://www.kupunakokua.org) - Nonprofit offering array of services directed towards helping Kupuna, but available for all residents ([KHON](https://www.khon2.com/news/tp-for-tutu-looks-to-help-deliver-groceries-and-supplies-without-charge/)) ([KITV](https://www.kitv.com/story/41950268/oahu-friends-create-kupuna-kokua-to-help-vulnerable-seniors))
 
 * Global (incl. Hawaii)
 
@@ -1014,6 +1054,8 @@ Call COVID Hotline for Covid Testing (808) 691-2619</td>
 * [Hawaii Landlord Tenant Handbook](https://cca.hawaii.gov/ocp/files/2016/04/2016-Landlord-Tenant-Handbook.pdf) 
 
 * [Institute for Human Services](https://ihshawaii.org/) - shelter for the houseless
+
+* Honolulu Tenants Union
 
 ### Virtual Challenges
 
@@ -1139,9 +1181,11 @@ Call COVID Hotline for Covid Testing (808) 691-2619</td>
 
 * [Corona Virus Updates from TheBus](https://www.thebus.org/COVID19.asp)
 
+    * [Weekday Service Change to State Holiday Schedule, 4/1/2020](http://www.thebus.org/updates/data/COVID-19_Weekday_Service_Mar27_2020.htm)
+
 ### Regional Information
 
-* Kaimuki / Palolo specific Information available [here](https://www.jacksonsayama.com/covid19?fbclid=IwAR060py-4OEaHb75UjwRq_q-2X2QhSLVO1V0qH64zb2oq7Tc5C-ZV5XqUok)
+* Kaimuki / Palolo specific [information available](https://www.jacksonsayama.com/covid19?fbclid=IwAR060py-4OEaHb75UjwRq_q-2X2QhSLVO1V0qH64zb2oq7Tc5C-ZV5XqUok)
 
 ## Kauaʻi
 
@@ -1177,7 +1221,7 @@ Public Transportation
 
 Volunteering
 
-* Kupuna CSA delivery volunteers (M-F): organized by Malama Kaua‘i, to apply,[ click here](https://docs.google.com/forms/d/e/1FAIpQLScBVKnC9YDNKjZcqMgcUDNNySGsQPHem1Yqi7GE_eqdKODu6w/viewform?fbclid=IwAR0ChCG-qSUjoUxStQe_3YYV9Bp2zn3eijBEL1wXsHLy1I3RjkF34MCwkOM)
+* Kupuna CSA delivery volunteers (M-F): organized by Malama Kaua‘i, [apply online](https://docs.google.com/forms/d/e/1FAIpQLScBVKnC9YDNKjZcqMgcUDNNySGsQPHem1Yqi7GE_eqdKODu6w/viewform?fbclid=IwAR0ChCG-qSUjoUxStQe_3YYV9Bp2zn3eijBEL1wXsHLy1I3RjkF34MCwkOM)
 
 * [Malama Kaua‘i: Job & Volunteer Openings](http://www.malamakauai.org/mk/about-mk-2/jobs-volunteer/)
 
@@ -1225,6 +1269,10 @@ Volunteering
 
 * [FAS COVID-19 Ask a Scientist](https://covid19.fas.org/l/en)
 
+* [Rise Up](https://rise.resources.lumavateapps.com/ic/pb/8240) - Covers free resources in every state.
+
+* [While At Home](https://whileathome.org/i-am/looking-for-employment/) - resource for handing pandemic-related issues
+
 # Questions from the community
 
 * **I think I or my family member has contracted COVID-19, but I don’t have health insurance, what should we do**?  Hospitals in Hawaii do not turn away emergency cases, regardless of insurance coverage.  However, any individual or family that has lost health coverage due to job loss or other circumstances is encouraged to contact federal and Hawaii state resources to obtain free or subsidized health insurance, such as the federal government’s healthcare marketplace ([healthcare.gov](healthcare.gov)) or the state of Hawaii’s Med-Quest program ([mybenefits.hawaii.gov/applying-for-benefits](mybenefits.hawaii.gov/applying-for-benefits)).  You can also call the state Med-Quest Division at 1-877-628-5076. [[Source](https://health.hawaii.gov/docd/files/2020/01/2019_nCoV_FAQ.pdf)]
@@ -1238,3 +1286,6 @@ This document is a curated, crowd-sourced effort by people all over the world to
 # License
 
 This document and its contents are licensed under a[ Creative Commons Attribution 4.0 International license](https://creativecommons.org/licenses/by/4.0/).
+
+
+
