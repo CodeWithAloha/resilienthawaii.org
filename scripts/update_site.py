@@ -43,6 +43,7 @@ def _get_current_hst_as_str(dt_format="%A, %B %-d, %Y %-I:%M %p"):
 
 def _prepend_strip_content(content, prepend_file_path):
     stripped_content = '## Introduction\n\n' + re.split('\\## Introduction\\b', content)[-1]
+    stripped_content = stripped_content.replace("![image alt text](image_0.png)", '')
     with open(prepend_file_path, 'r') as w:
         prepend_content = w.read()
         return prepend_content + f"\nLast Updated: _{_get_current_hst_as_str()}_\n\n" + stripped_content
