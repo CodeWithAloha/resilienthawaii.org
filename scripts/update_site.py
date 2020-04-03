@@ -36,9 +36,9 @@ def _get_content_as_tempfile(url):
         return f.name
 
 
-def _get_current_hst_as_str(dt_format="%A, %B %-d, %Y %-I:%M %p"):
-    PST = pytz.timezone('US/Pacific')
-    return datetime.now(timezone.utc).astimezone(PST).strftime(dt_format)
+def _get_current_hst_as_str(dt_format="%A, %B %-d, %Y %-I:%M %p HST"):
+    HST = pytz.timezone('US/Hawaii')
+    return datetime.now(timezone.utc).astimezone(HST).strftime(dt_format)
 
 
 def _prepend_strip_content(content, prepend_file_path):
