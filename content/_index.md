@@ -37,13 +37,13 @@ Images = ["img/post-cover.png"]
 </a>
 {{< /rawhtml >}}
 
-Last Updated: _Thursday, April 2, 2020 6:43 PM HST_
+Last Updated: _Thursday, April 2, 2020 7:28 PM HST_
 
 ## Introduction
 
 
 
-This is a crowdsourced resource of trusted, curated + editorial links specific to Hawaii concerning the novel coronavirus global pandemic (COVID-19/SARS-CoV-2). To neighbor island folk, we really need your help filling in the gaps; our networks are primarily on Oahu. Here are examples that we are modeling this document after: [NYC United Against Coronavirus](https://docs.google.com/document/d/18WYGoVlJuXYc3QFN1RABnARZlwDG3aLQsnNokl1KhZQ/edit), [Tech:NYC](https://www.google.com/url?q=https://docs.google.com/document/d/12KbEKMrLrZf-nUvuHoFtLPHAARIDEc7kcWTUwBnI8dw/edit&sa=D&ust=1585458826721000&usg=AFQjCNFuLDspcRvdcNBKQk5OQfte3mzaCQ), [COVID-19 Los Angeles Mass Resource List](https://docs.google.com/document/d/1S-WJaMa4q3yNrEBfSFKEdSQArcNc_MTI2LiUA63Ycyg/edit#). Let’s do our best to not recreate the wheel. We encourage you to [make suggestions to the content in this document](https://support.google.com/docs/answer/6033474).
+This is a crowdsourced resource of trusted, curated + editorial links specific to Hawaii concerning the novel coronavirus global pandemic (COVID-19/SARS-CoV-2). To neighbor island folk, we really need your help filling in the gaps; our networks are primarily on Oahu. Here are examples that we are modeling this document after: [NYC United Against Coronavirus](https://docs.google.com/document/d/18WYGoVlJuXYc3QFN1RABnARZlwDG3aLQsnNokl1KhZQ/edit), [Tech:NYC](https://www.google.com/url?q=https://docs.google.com/document/d/12KbEKMrLrZf-nUvuHoFtLPHAARIDEc7kcWTUwBnI8dw/edit&sa=D&ust=1585458826721000&usg=AFQjCNFuLDspcRvdcNBKQk5OQfte3mzaCQ), [COVID-19 Los Angeles Mass Resource List](https://docs.google.com/document/d/1S-WJaMa4q3yNrEBfSFKEdSQArcNc_MTI2LiUA63Ycyg/edit#). Let’s do our best to not recreate the wheel. We encourage you to [make suggestions to the content in this document](https://support.google.com/docs/answer/6033474). **If you would like to help translate this document into Illocano, Tagalog, Japanese, Chinese, Spanish, Hawaiian, Korean, Samoan, Vietnamese or your language of choice, please email us at ****[hawaiicovidresources@gmail.co**m](mailto:hawaiicovidresources@gmail.com)**.**
 
 **We are doing our best to maintain this page, but like everything else you read on the internet, please check the source to make sure it’s up to date!**
 
