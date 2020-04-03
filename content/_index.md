@@ -37,7 +37,7 @@ Images = ["img/post-cover.png"]
 </a>
 {{< /rawhtml >}}
 
-Last Updated: _Thursday, April 2, 2020 7:54 PM HST_
+Last Updated: _Friday, April 3, 2020 12:31 PM HST_
 
 ## Introduction
 
@@ -114,7 +114,9 @@ See also: [HawaiiFightsCovid.org](https://www.hawaiifightscovid.org/)
 
 * [SBA small business disaster loans](https://invest.hawaii.gov/sba-economic-injury-disaster-loan-program/?fbclid=IwAR3_zFTzI89tXDTWkFRhgk7tho6zJ_lxTLM_CRalgU5nDkQJHZZc6Z34q9Q)
 
-* [Chamber of Commerce Hawaii: Paycheck Protection Program loans](https://covid19.cochawaii.org/paycheck-protection-program/)
+* [Chamber of Commerce Hawaii: Paycheck Protection Program (PPP) loans](https://covid19.cochawaii.org/paycheck-protection-program/)
+
+    * Brain Gain Pro Bono PPP Resources Live Updates: [Google Drive](https://drive.google.com/drive/u/1/folders/1vp3Kc5a7OhLYJ9HTvOGmEn2SbrOl0MiF)
 
 * [Chamber of Commerce Hawaii COVID-19 Response: Information and resources for small businesses](https://covid19.cochawaii.org/)
 
@@ -163,6 +165,8 @@ See also: [HawaiiFightsCovid.org](https://www.hawaiifightscovid.org/)
 #### Resources Based on Type of Employment
 
 * [Resources for ](https://covid19freelanceartistresource.wordpress.com/?fbclid=IwAR2h6cN5HPapOjYZoLocJ7ydEEx34_0Hy_Bp2K_jblFmSKUQ1uNM3j1X3Cs)**[freelance artist**s](https://covid19freelanceartistresource.wordpress.com/?fbclid=IwAR2h6cN5HPapOjYZoLocJ7ydEEx34_0Hy_Bp2K_jblFmSKUQ1uNM3j1X3Cs)
+
+    * [https://www.freelancersunion.org/resources/freelancers-relief-fund/freelancers-relief-fund-eligibility-guidelines](https://www.freelancersunion.org/resources/freelancers-relief-fund/freelancers-relief-fund-eligibility-guidelines)
 
 * [Resources for ](https://www.usbgfoundation.org/beap?fbclid=IwAR3dQlMeJsntGhpWvUi3rWUnkHWQCIL97gG9yqQdG9degTQ_Yxr6YkCqL7I)**[bartender**s](https://www.usbgfoundation.org/beap?fbclid=IwAR3dQlMeJsntGhpWvUi3rWUnkHWQCIL97gG9yqQdG9degTQ_Yxr6YkCqL7I)
 
@@ -452,6 +456,8 @@ Depending on your health insurance, some of these platforms can be used for free
 
 * [Aggregated COVID-19 resources from the community of the Ethnic Studies Department at University of Hawaii-Manoa](http://udigix.net/shaarli/) 
 
+* [Hawaii Department of Transportation | COVID 19 traffic volume comparison](https://hidot.hawaii.gov/highways/covid-19-traffic-volume-comparison/)
+
 #### Worldwide
 
 * [Coronavirus Advice for the Public](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/advice-for-public) (World Health Organization)
@@ -485,6 +491,8 @@ Depending on your health insurance, some of these platforms can be used for free
 * [Coronavirus Anxiety - Helpful Expert Tips and Resources](https://adaa.org/finding-help/coronavirus-anxiety-helpful-resources?_zs=xfQBb&_zl=U3K12&fbclid=IwAR3TbkLE5RRroFrJjfJw4QpCNca3AKGWp-9fCNw8YG0mzHwa3HuO0wyaEU8)
 
 ## COVID-19 Screening
+
+*If anyone knows of a government organization keeping track of the screening sites, could you please leave a suggestion here. Ideally, we would like to move the chart below out of this document (or into its own document). 
 
 ### Locations as of 3/16/2020
 
@@ -1299,6 +1307,10 @@ Volunteering
 * [https://www.newsguardtech.com/coronavirus-misinformation-tracking-center/](https://www.newsguardtech.com/coronavirus-misinformation-tracking-center/)
 
 * [CDC Covid Guide](https://www.cdc.gov/coronavirus/2019-ncov/index.html) - to help combat misinformation
+
+## Arts & Culture
+
+* [Hawaii State Arts & Culture COVID-19 Resources](http://sfca.hawaii.gov/covid-19-resources)
 
 ## Misc / Unsorted
 
