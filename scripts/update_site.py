@@ -14,7 +14,7 @@ import requests
 import tempfile
 
 
-SHARE_URL = "https://drive.google.com/uc?export=download&id=1NDLNuBoFsCHBCPI5wLRr2RKOe3kr5Wq5"
+SHARE_URL = "https://drive.google.com/uc?export=download&id=1Nah9sM0ZPS4MjdRX06UXnctzkjJWBkVr"
 PREPEND_FILE_PATH = os.path.join(
     os.path.dirname(os.path.abspath(__file__)),
     f"prepend.md")
