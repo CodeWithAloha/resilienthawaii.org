@@ -37,7 +37,7 @@ Images = ["img/post-cover.png"]
 </a>
 {{< /rawhtml >}}
 
-Last Updated: _Saturday, April 4, 2020 12:58 PM HST_
+Last Updated: _Sunday, April 5, 2020 4:53 PM HST_
 
 ## Introduction
 
@@ -964,8 +964,6 @@ Call COVID Hotline for Covid Testing (808) 697-3170</td>
 
 #### Activities with Young Children
 
-* [Free Coloring books and puzzles](https://www.crayola.com/free-coloring-pages/seasons/?utm_source=cj_dealnews.com&utm_medium=affiliate&utm_campaign=2017_evergreen_affiliate&utm_content=Crayola+234X60++Banner&cjevent=65f521c96ca011ea81e8054a0a240614&?utm_source=cj_dealnews.com)
-
 * [Word Games with Kids (Pictionary)](https://wehavekids.com/parenting/Pictionary-Words-For-Kids)
 
 * [Kumukahi: Videos, activities, and games about Hawaiian culture](http://www.kumukahi.org/)
@@ -981,6 +979,14 @@ Call COVID Hotline for Covid Testing (808) 697-3170</td>
 * [Virtual Art Museums on Google Arts & Culture](https://artsandculture.google.com/partner?hl=en)
 
 * [Virtual Tour of National Parks](https://artsandculture.withgoogle.com/en-us/national-parks-service/parks) (Hawaii Volcanoes National Park included)
+
+* [Iolani Palace Virtual Tour](https://www.iolanipalace.org/visit/virtual-tour/)
+
+* [Iolani Palace Na Moolelo Video Archive](https://www.iolanipalace.org/na-moolelo/video-archive/)
+
+* Coloring Books
+
+    * [Crayola: Free Coloring books and puzzles](https://www.crayola.com/free-coloring-pages/seasons/?utm_source=cj_dealnews.com&utm_medium=affiliate&utm_campaign=2017_evergreen_affiliate&utm_content=Crayola+234X60++Banner&cjevent=65f521c96ca011ea81e8054a0a240614&?utm_source=cj_dealnews.com), [Free Coloring Books](https://www.familiesbelongtogether.org/homewithkids/), [Iolani Palace: Keiki and Ohana Activities (Coloring Sheets)](https://www.iolanipalace.org/keiki-ohana-activities/)
 
 * [Watch Zoo Animals Live](https://zoo.sandiegozoo.org/live-cams)
 
@@ -999,8 +1005,6 @@ Call COVID Hotline for Covid Testing (808) 697-3170</td>
 * [Purple Maia Online Programs (Sign-Up Form)](https://docs.google.com/forms/d/e/1FAIpQLSdF5L49d8E1lVSTAMCJasyrAkF4SyvGWSw6_fNIpeKsLOAaJQ/viewform)
 
 * [Follow Purple Maia on Instagram for distance learning activities for Keiki](https://www.instagram.com/purple_maia/) (@purplemaia)
-
-* [Free Coloring Books](https://www.familiesbelongtogether.org/homewithkids/)
 
 * [Josh Gad Is Reading Books to Kids Online Every Night](https://chipandco.com/actor-josh-gad-is-reading-books-to-kids-online-every-night-during-coronavirus-quarantines-383789)
 
