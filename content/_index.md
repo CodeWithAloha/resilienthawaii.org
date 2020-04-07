@@ -37,7 +37,7 @@ Images = ["img/post-cover.png"]
 </a>
 {{< /rawhtml >}}
 
-Last Updated: _Monday, April 6, 2020 12:49 PM HST_
+Last Updated: _Monday, April 6, 2020 2:37 PM HST_
 
 ## Introduction
 
@@ -333,6 +333,8 @@ Website: [https://www.stfrancishawaii.org/event-calendar/show-aloha-challenge](h
 * [Blood Bank of Hawaii](https://www.bbh.org/covid-19/) - Donate blood at various donation centers: Young Street, Dillingham, Kailua Town Center, Kaneohe Bay Shopping Center, Waikele Center, and KROC Center Hawaii. Please check the site for hours.
 
 * [Rainbow Family 808](http://rainbowfamily808.com) - Food donations
+
+* [Hawaii Food Bank](http://www.hawaiifoodbank.org/covid-19)
 
 ### Preparedness
 
@@ -968,6 +970,8 @@ Call COVID Hotline for Covid Testing (808) 697-3170</td>
 
 * [Kumukahi: Videos, activities, and games about Hawaiian culture](http://www.kumukahi.org/)
 
+* [Iolani Palace Na Moolelo Video Archive](https://www.iolanipalace.org/na-moolelo/video-archive/)
+
 * [Ka'iwakīloumoku Virtual Archive: Multimedia center for online cultural learning ](https://apps.ksbe.edu/kaiwakiloumoku/)
 
 * ["Beginner" books for young keiki to learn more about the Hawaiian culture](https://ulukau.org/index.php?a=p&advanced=false&p=wings&st=universal&stOld=universal&stAuthors=&stTitles=&stSubjects=&stPlaces=&stRefines=&stUniversal=&stIsland=&stMoku=&stAhupuaa=&cl=&l=en&wp=books)
@@ -976,13 +980,15 @@ Call COVID Hotline for Covid Testing (808) 697-3170</td>
 
 * [Activity ideas and resources for online learning](https://www.actionforhealthykids.org/resources-for-schools-and-families-during-covid-19-coronavirus/)
 
-* [Virtual Art Museums on Google Arts & Culture](https://artsandculture.google.com/partner?hl=en)
+* Virtual Tours
 
-* [Virtual Tour of National Parks](https://artsandculture.withgoogle.com/en-us/national-parks-service/parks) (Hawaii Volcanoes National Park included)
+    * [Explore the World's Museums](https://virtualmuseums.io/) - Directory of Virtual Museums
 
-* [Iolani Palace Virtual Tour](https://www.iolanipalace.org/visit/virtual-tour/)
+    * [Virtual Art Museums on Google Arts & Culture](https://artsandculture.google.com/partner?hl=en)
 
-* [Iolani Palace Na Moolelo Video Archive](https://www.iolanipalace.org/na-moolelo/video-archive/)
+    * [Virtual Tour of National Parks](https://artsandculture.withgoogle.com/en-us/national-parks-service/parks) (Hawaii Volcanoes National Park included)
+
+    * [Iolani Palace Virtual Tour](https://www.iolanipalace.org/visit/virtual-tour/)
 
 * Coloring Books
 
@@ -1004,7 +1010,7 @@ Call COVID Hotline for Covid Testing (808) 697-3170</td>
 
 * [Purple Maia Online Programs (Sign-Up Form)](https://docs.google.com/forms/d/e/1FAIpQLSdF5L49d8E1lVSTAMCJasyrAkF4SyvGWSw6_fNIpeKsLOAaJQ/viewform)
 
-* [Follow Purple Maia on Instagram for distance learning activities for Keiki](https://www.instagram.com/purple_maia/) (@purplemaia)
+* [Purple Maia on Instagram for distance learning activities for Keiki](https://www.instagram.com/purple_maia/) (@purplemaia)
 
 * [Josh Gad Is Reading Books to Kids Online Every Night](https://chipandco.com/actor-josh-gad-is-reading-books-to-kids-online-every-night-during-coronavirus-quarantines-383789)
 
@@ -1351,6 +1357,8 @@ Volunteering
 * [Rise Up](https://rise.resources.lumavateapps.com/ic/pb/8240) - Covers free resources in every state.
 
 * [While At Home](https://whileathome.org/i-am/looking-for-employment/) - resource for handing pandemic-related issues
+
+* [DeafCOVID19.info](https://deafcovid19.info) - Aggregating COVID-19 info for the Deaf in multiple Signed Languages.
 
 # Questions from the community
 
