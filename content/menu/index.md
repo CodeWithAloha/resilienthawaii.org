@@ -41,6 +41,12 @@ headless: true
 
 ---
 
+{{< rawhtml >}}
+<a href="https://hawaiifightscovid.org" target="_blank"><img class="hawaiifightscovid" alt="Hawaii Fights Covid Logo" src="/img/hawaii-fights-covid-logo.jpg" /></a>
+{{< /rawhtml >}}
+
+---
+
 <br/>
 
 - {{< rawhtml >}}<span class="menu-header">Mahalo!</span>{{< /rawhtml >}}
