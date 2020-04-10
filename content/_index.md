@@ -37,7 +37,7 @@ Images = ["img/post-cover.png"]
 </a>
 {{< /rawhtml >}}
 
-Last Updated: _Tuesday, April 7, 2020 12:08 PM HST_
+Last Updated: _Thursday, April 9, 2020 6:17 PM HST_
 
 ## Introduction
 
@@ -89,7 +89,7 @@ Please note that conditions are changing rapidly and screening options may chang
 
 * [COVID-19 + Women in Hawaii](https://docs.google.com/document/u/0/d/1dGp4ABKB4ADaTcO8BJMbdiFuRc-ITPgD8_4YI3ihjxk/mobilebasic) (Hawaii State Commission on the Status of Women): A crowdsourced guide focused on women’s needs, community resources for women, and urgent concerns and questions.
 
-* If you’re concerned about being quarantined in an unsafe home situation, please see domesticshelters.org for more resources. National Domestic Violence Hotline is available 24/7 at 1-800-799-7233 (SAFE) or 1-800-787-3223 (TTY) or [chat with their advocates](https://www.thehotline.org/what-is-live-chat/) or text LOVEIS to 22522.
+* If you’re concerned about being quarantined in an unsafe home situation, please see domesticshelters.org for more resources. National Domestic Violence Hotline is available 24/7 at 1-800-799-7233 (SAFE) or 1-800-787-3223 (TTY) or [chat with their advocates](https://www.thehotline.org/what-is-live-chat/) or text LOVEIS to 22522. List of Local and National Domestic Violence Resources via the [State of HI Dept. of Human Services](https://humanservices.hawaii.gov/ssd/domestic-violence-resources/)
 
 * [Anti-Violence Project](https://avp.org/) offers a 24-hour English/Spanish hotline for LGBTQ+ experiencing abuse or hate-based violence: call 212-714-1141
 
@@ -363,6 +363,10 @@ Website: [https://www.stfrancishawaii.org/event-calendar/show-aloha-challenge](h
 * [Hawaii Office of Veterans Services](http://dod.hawaii.gov/ovs/), 808-433-0420
 
 * [Veterans of Foreign Wars](http://www.vfw.org/), 808-433-0494
+
+### Behavioral Health and Homelessness
+
+* [Behavior Health and Homelessness Statewide Unified Response Group](http://bhhsurg.hawaii.gov)
 
 ### Telehealth
 
@@ -644,14 +648,14 @@ Depending on your health insurance, some of these platforms can be used for free
     <td>1 Jarrett White Road, Honolulu</td>
     <td>(808) 683-2778</td>
     <td>24 Hours</td>
-    <td>Everyday</td>
+    <td>Every day</td>
   </tr>
   <tr>
     <td>Wahiawa General Hospital</td>
     <td>128 Lehua Street, Wahiawa</td>
     <td>(808) 621-8411</td>
     <td>24 Hours</td>
-    <td>Everyday</td>
+    <td>Every day</td>
   </tr>
   <tr>
     <td>Windward Urgent Care</td>
@@ -774,7 +778,7 @@ Call COVID Hotline for Covid Testing (808) 697-3170</td>
     <td>3-3420 Kuhio Highway, Lihue</td>
     <td>(808) 245-1100</td>
     <td>24 Hours</td>
-    <td>Everyday</td>
+    <td>Every day</td>
   </tr>
   <tr>
     <td>Call ahead for Drive-Thru/Drive-Up Screening</td>
@@ -815,7 +819,7 @@ Call COVID Hotline for Covid Testing (808) 697-3170</td>
     <td>100 Keokea Place, Kula</td>
     <td>(808) 878-1221</td>
     <td>24 Hours</td>
-    <td>Everyday</td>
+    <td>Every day</td>
   </tr>
   <tr>
     <td>Lanai Community Hospital (Pending)</td>
@@ -830,7 +834,7 @@ Call COVID Hotline for Covid Testing (808) 697-3170</td>
 </td>
     <td>(808) 244-9056</td>
     <td>24 Hours</td>
-    <td>Everyday</td>
+    <td>Every day</td>
   </tr>
   <tr>
     <td>Maui Memorial Medical Center (Pending)</td>
@@ -844,7 +848,7 @@ Call COVID Hotline for Covid Testing (808) 697-3170</td>
     <td>280 Home Olu Place, Kaunakakai</td>
     <td>(808) 553-5331</td>
     <td>24 Hours</td>
-    <td>Everyday</td>
+    <td>Every day</td>
   </tr>
   <tr>
     <td>Call ahead for Drive-Thru/Drive-Up Screening</td>
@@ -885,14 +889,14 @@ Call COVID Hotline for Covid Testing (808) 697-3170</td>
     <td>1190 Waianuenue Avenue, Hilo</td>
     <td>(808) 932-3000</td>
     <td>24 Hours</td>
-    <td>Everyday</td>
+    <td>Every day</td>
   </tr>
   <tr>
     <td>Kona Community Hospital North</td>
     <td>79-1019 Haukapila Street, Kealakekua</td>
     <td>(808) 322-9311</td>
     <td>24 Hours</td>
-    <td>Everyday</td>
+    <td>Every day</td>
   </tr>
   <tr>
     <td>Queen's North Hawaii Community Hospital</td>
@@ -960,6 +964,8 @@ Call COVID Hotline for Covid Testing (808) 697-3170</td>
 
 * How to talk to your children about Coronavirus
 
+    * Talking to Keiki about COVID (english / hawaiian) [https://www.vibranthawaii.org/keiki](https://www.vibranthawaii.org/keiki)
+
     * [CDC: Talking with children about Coronavirus Disease 2019](https://www.cdc.gov/coronavirus/2019-ncov/community/schools-childcare/talking-with-children.html)
 
     * [PBS: How to Talk to Your Kids About Coronavirus](https://www.pbs.org/parents/thrive/how-to-talk-to-your-kids-about-coronavirus)
@@ -1013,16 +1019,6 @@ Call COVID Hotline for Covid Testing (808) 697-3170</td>
 * [Purple Maia on Instagram for distance learning activities for Keiki](https://www.instagram.com/purple_maia/) (@purplemaia)
 
 * [Josh Gad Is Reading Books to Kids Online Every Night](https://chipandco.com/actor-josh-gad-is-reading-books-to-kids-online-every-night-during-coronavirus-quarantines-383789)
-
-### Entertainment
-
-* [Nightly Met Opera Streams](https://www.metopera.org/user-information/nightly-met-opera-streams/) (The Metropolitan Opera)
-
-* [NFL Game Pass](https://gamepass.nfl.com/packages?redirected=true&icampaign=gpd-edi-GPD_Free_3840x2160) free through 5/31/2020
-
-* [Free entertainment to help you survive coronavirus social distancing](https://www.cnet.com/news/free-entertainment-to-help-you-survive-coronavirus-social-distancing/) (Cnet)
-
-* [Kosmi](https://kosmi.io/) - Watch videos together, play games, or simply chat with friends or strangers 
 
 ## Remote Working/Learning from Home
 
