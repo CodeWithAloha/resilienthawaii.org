@@ -37,7 +37,7 @@ Images = ["img/post-cover.png"]
 </a>
 {{< /rawhtml >}}
 
-Last Updated: _Friday, April 10, 2020 10:47 AM HST_
+Last Updated: _Saturday, April 11, 2020 12:30 PM HST_
 
 ## Introduction
 
