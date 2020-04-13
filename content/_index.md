@@ -37,7 +37,7 @@ Images = ["img/post-cover.png"]
 </a>
 {{< /rawhtml >}}
 
-Last Updated: _Saturday, April 11, 2020 12:30 PM HST_
+Last Updated: _Sunday, April 12, 2020 4:30 PM HST_
 
 ## Introduction
 
@@ -99,6 +99,8 @@ Please note that conditions are changing rapidly and screening options may chang
 
     * See also: [AlohaTrace.org](https://www.alohatrace.org/)
 See also: [HawaiiFightsCovid.org](https://www.hawaiifightscovid.org/)
+
+* [COVID Watch](https://www.covid-watch.org/) (Stanford University)
 
 ### Financial 
 
