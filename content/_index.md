@@ -37,7 +37,7 @@ Images = ["img/post-cover.png"]
 </a>
 {{< /rawhtml >}}
 
-Last Updated: _Thursday, April 16, 2020 12:00 PM HST_
+Last Updated: _Friday, April 17, 2020 12:24 PM HST_
 
 ## Introduction
 
@@ -53,7 +53,7 @@ A group of volunteers are working on this project. If you are working on a simil
 
 ## Hawaii COVID-19 Resources in Non-English Languages
 
-[Chinese-Simplified 简体中文, Chinese – Traditional 繁體中文, Chuukese Kapasen Chuuk, Ilocano, Japanese 日本語, Tagalog, Korean 한국어, Marshallese Kajin M̧ajeļ, Spanish Español, Thai ไทย, Vietnamese Tiếng Việt](https://health.hawaii.gov/ola/ola-posts/covid-19-multi-languages-resources/)
+[Chinese-Simplified 简体中文, Chinese – Traditional 繁體中文, ](https://health.hawaii.gov/ola/ola-posts/covid-19-multi-languages-resources/)[Chuukese](https://health.hawaii.gov/ola/ola-posts/covid-19-multi-languages-resources/)[ Kapasen Chuuk, Ilocano, Japanese 日本語, Tagalog, Korean 한국어, Marshallese Kajin M̧ajeļ, Spanish Español, Thai ไทย, Vietnamese Tiếng Việt](https://health.hawaii.gov/ola/ola-posts/covid-19-multi-languages-resources/)
 
 [Hawaiian ](https://health.hawaii.gov/ola/ola-posts/covid-19-multi-languages-resources/)[ʻŌlelo Hawaiʻi](https://health.hawaii.gov/ola/ola-posts/covid-19-multi-languages-resources/)
 
