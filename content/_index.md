@@ -37,7 +37,7 @@ Images = ["img/post-cover.png"]
 </a>
 {{< /rawhtml >}}
 
-Last Updated: _Tuesday, April 21, 2020 11:11 AM HST_
+Last Updated: _Monday, May 11, 2020 3:02 PM HST_
 
 ## Introduction
 
@@ -57,7 +57,9 @@ A group of volunteers are working on this project. If you are working on a simil
 
 [Hawaiian ](https://health.hawaii.gov/ola/ola-posts/covid-19-multi-languages-resources/)[ʻŌlelo Hawaiʻi](https://health.hawaii.gov/ola/ola-posts/covid-19-multi-languages-resources/)
 
-## Immediate Needs
+https://korean.cdc.gov/coronavirus/2019-ncov/index.html
+
+## Immediate Need
 
 ### Symptoms/When should you get screened?
 
@@ -82,6 +84,8 @@ Please note that conditions are changing rapidly and screening options may chang
 * Community information and referrals: [Aloha United Way 2-1-1 Community Resources](http://www.auw211.org/) - Call 2-1-1 or Text 877-275-6569 or email [info211@auw.org](mailto:info211@auw.org)
 
 * [Salvation Army: Hawaiian and Pacific Islands Division](https://hawaii.salvationarmy.org) - Providing food, emergency assistance, and other available services.
+
+* [Leadership in Disabilities & Achievement of Hawaii](https://ldahawaii.org/category/covid-19-resources/) (LDAH)
 
 * Hawaii residents can now text "FOOD" to 877-877 to find the nearest keiki feeding sites. 
 
@@ -149,6 +153,10 @@ See also: [HawaiiFightsCovid.org](https://www.hawaiifightscovid.org/)
 * Hawaii state income tax filings and payments postponed until July 20, 2020 [[Source](https://files.hawaii.gov/tax/news/announce/ann20-01.pdf)]
 
 #### Federal Stimulus Package
+
+* [Save Hawaii Jobs and Businesses Webinars](http://www.braingainhi.com/save-hawaii-jobs-businesses/)
+
+* [Save Hawaii Jobs and Businesses Resource Folder](https://drive.google.com/drive/folders/1vp3Kc5a7OhLYJ9HTvOGmEn2SbrOl0MiF)
 
 * [Hawai’i specific guide to stimulus benefits](https://www.schatz.senate.gov/coronavirus) (Sen. Schatz)
 
@@ -487,6 +495,8 @@ Depending on your health insurance, some of these platforms can be used for free
 * ["Covid Near You" tracking project ](https://covidnearyou.org/#!/)(Harvard/Boston Children's Hospital)
 
 ### Mental Well-being 
+
+* [From Anxiety to Clarity with Beth-Ann Kozlovich and Guests](http://www.kokua.org/from-anxiety-to-clarity/)
 
 * [Managing Stress Associated with the COVID-19 Virus Outbreak](https://www.ptsd.va.gov/covid/COVID_managing_stress.asp)
 
