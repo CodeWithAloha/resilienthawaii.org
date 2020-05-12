@@ -12,9 +12,10 @@ import pytz
 import re
 import requests
 import tempfile
+import sys
 
-
-SHARE_URL = "https://drive.google.com/uc?export=download&id=1Nah9sM0ZPS4MjdRX06UXnctzkjJWBkVr"
+SHARE_URL = "https://drive.google.com/uc?export=download&id=11LxvNQMX-iiIm5esJ3yZbyeSnZxEraB_"
+# SHARE_URL = "https://drive.google.com/uc?export=download&id=1Nah9sM0ZPS4MjdRX06UXnctzkjJWBkVr"
 PREPEND_FILE_PATH = os.path.join(
     os.path.dirname(os.path.abspath(__file__)),
     f"prepend.md")
@@ -29,7 +30,9 @@ def _get_secure_download_link(url):
 
 
 def _get_content_as_tempfile(url):
-    r = requests.get(url)
+    r = requests.get(url) 
+    if r.status_code != 200:
+        sys.stderr.write(f"Error downloading markdown: got {r.status_code}")
     with tempfile.NamedTemporaryFile(mode="w+b", delete=False) as f:
         f.write(r.content)
         f.flush()
