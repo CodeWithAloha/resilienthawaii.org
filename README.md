@@ -12,6 +12,8 @@ The process is as follows:
 - Run the script periodically to create a Markdown representation of the Google document
 - Use Hugo + Netlify to update the content
 
+*Don't forget to git submodule update --init --recursive*
+
 ## Using Hugo Static Site Generator v0.69.0-DEV/extended darwin/amd64
 
 ## Deploying site
